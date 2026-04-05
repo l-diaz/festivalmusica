@@ -8,9 +8,6 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
-dist-ssr
-*.local
 gulpfile.js
 
 # Editor directories and files
@@ -26,4 +23,4 @@ gulpfile.js
 .zip
 .env
 *.json
-src/scss/
+src
