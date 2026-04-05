@@ -25,3 +25,5 @@ gulpfile.js
 *.sw?
 .zip
 .env
+*.json
+src/scss/
